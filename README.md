@@ -8,7 +8,7 @@ Download InstagramDpDownloader [here](https://github.com/iamvsz/MyFiles/raw/main
 After downloading Right Click --> Extract all
 
 
-![Instagram Dp Downloader Extract all](https://github.com/iamvsz/MyFiles/blob/main/Instagram-Dp-Downloader-for-PC%20Readme/Extract%20all.png?raw=true)
+![Instagram Dp Downloader Extract all](https://raw.githubusercontent.com/iamvsz/MyFiles/main/Instagram-Dp-Downloader-for-PC%20Readme/Extract%20all.png)
 
 
 Then click Extract
