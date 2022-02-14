@@ -15,7 +15,7 @@ Then click Extract
 
 
 
-![Instagram Dp Downloader Extract](https://github.com/iamvsz/MyFiles/blob/main/Instagram-Dp-Downloader-for-PC%20Readme/extract.png?raw=true)
+![Instagram Dp Downloader Extract](https://raw.githubusercontent.com/iamvsz/MyFiles/main/Instagram-Dp-Downloader-for-PC%20Readme/extract.png)
 
 
 
@@ -23,7 +23,7 @@ After extracting double click insta.exe
 
 
 
-![Instagram Dp Downloader double click](https://github.com/iamvsz/MyFiles/blob/main/Instagram-Dp-Downloader-for-PC%20Readme/doubleclick.png?raw=true)
+![Instagram Dp Downloader double click](https://raw.githubusercontent.com/iamvsz/MyFiles/main/Instagram-Dp-Downloader-for-PC%20Readme/doubleclick.png)
 
 
 
@@ -31,7 +31,7 @@ If you see below window click More info
 
 
 
-![Instagram Dp Downloader MoreInfo](https://github.com/iamvsz/MyFiles/blob/main/Instagram-Dp-Downloader-for-PC%20Readme/moreinfo.png?raw=true)
+![Instagram Dp Downloader MoreInfo](https://raw.githubusercontent.com/iamvsz/MyFiles/main/Instagram-Dp-Downloader-for-PC%20Readme/moreinfo.png)
 
 
 
@@ -39,20 +39,20 @@ then click runanyway
 
 
 
-![Instagram Dp Downloader runanyway](https://github.com/iamvsz/MyFiles/blob/main/Instagram-Dp-Downloader-for-PC%20Readme/runanywaay.png?raw=true)
+![Instagram Dp Downloader runanyway](https://raw.githubusercontent.com/iamvsz/MyFiles/main/Instagram-Dp-Downloader-for-PC%20Readme/runanywaay.png)
 
 
 
 Then you are good-to-go
 
 
-![Instagram Dp Downloader goodtogo](https://github.com/iamvsz/MyFiles/blob/main/Instagram-Dp-Downloader-for-PC%20Readme/goodtogo.png?raw=true)
+![Instagram Dp Downloader goodtogo](https://raw.githubusercontent.com/iamvsz/MyFiles/main/Instagram-Dp-Downloader-for-PC%20Readme/goodtogo.png)
 
 
 ## follow the below steps to download Instagram Dp
 
 
-![Instagram Dp Downloader Interface](https://github.com/iamvsz/MyFiles/blob/main/Instagram-Dp-Downloader-for-PC%20Readme/Instagram%20Dp%20Downloader.png?raw=true)  
+![Instagram Dp Downloader Interface](https://raw.githubusercontent.com/iamvsz/MyFiles/main/Instagram-Dp-Downloader-for-PC%20Readme/Instagram%20Dp%20Downloader.png)  
 
 1. Insert Username
 2. Click on Download
