@@ -1,7 +1,10 @@
 # Instagram-Dp-Downloader-for-PC
 
 Download your Crush Dp on Instagram without the need to be a follower.
-Download InstagramDpDownloader [here](https://github.com/iamvsz/MyFiles/raw/main/InstagramDPDownloader.zip)  
+Download InstagramDpDownloader [here](https://github.com/iamvsz/MyFiles/raw/main/InstagramDPDownloader.zip) (Console Based)
+OR 
+[Link1](https://github.com/iamvsz/MyFiles/raw/main/Instagram-DP-Downloader-Windows.zip)   || 
+[Link2](https://github.com/iamvsz/MyFiles/raw/main/Instagram-Dp-Downloader-WindowsBased.zip) (Windows Based)
 
 ### Make Sure to extract after downloading else it won't work. Right Click --> Extract all.
 
